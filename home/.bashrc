@@ -36,7 +36,7 @@ alias yt='yt-dlp'
 alias k='kubectl'
 
 alias noh='history -d $(history 1)'
-
+alias tod='cd ~/projects'
 alias ll='ls -alFt'
 alias l='ls -CF'
 
